@@ -1,2 +1,2 @@
 # NRProject
-An Anonymous Ip Scanner Using a VPS/VM as an agent
+An Anonymous IP Scanner Using a VPS/VM as an agent
